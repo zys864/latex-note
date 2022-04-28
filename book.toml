@@ -1,0 +1,9 @@
+[book]
+authors = ["zys864"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "latex-note"
+
+[output.html]
+mathjax-support = true
